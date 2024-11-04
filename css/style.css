@@ -2,14 +2,7 @@
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
-  height: 72vh;
 }
-.gradient-background-footer {
-  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
-  background-size: 180% 180%;
-  animation: gradient-animation 18s ease infinite;
-}
-
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
@@ -33,21 +26,7 @@
   border-radius: 50%;
 }
 
-.container-content{
-  display: flex;
-  padding: 0;
-}
 
-.sub-con1{
-  position: relative;
-  top: 16.5rem;  
-}
 
-.sub-con2>img{
-  position: relative;
-  top: 12.3%;
-}
 
-.sub-con1>div{
-  width: 105%;
-}
+
